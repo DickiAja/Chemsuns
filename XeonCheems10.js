@@ -6556,7 +6556,7 @@ ${listAdmin}
     XeonBotInc.sendMessage(m.chat, {text : text, mentions: [...groupAdmins.map(v => v.id), owner] }, {quoted: m})
 }
 break
-case 'ig': 'instagram': case 'igvideo': case 'igimage': case 'igvid': case 'igimg': {
+case 'ig': case 'instagram': case 'igvideo': case 'igimage': case 'igvid': case 'igimg': {
 	  if (!text) return replygcxeon(`You need to give the URL of Any Instagram video, post, reel, image`)
   let res
   try {
