@@ -16,10 +16,10 @@ global.themeemoji = '🪀'
 global.wm = "SunShine"
 global.botscript = 'https://github.com' //script link
 global.packname = "Sticker By SunShine"
-global.author = "SunShine\n\n+6285175463174"
+global.author = "SunShine\n\n+628997496333"
 global.creator = "628997496333@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6285175463174"] // Premium User
+global.premium = ["628997496333"] // Premium User
 global.hituet = 0
 
 //bot sett
