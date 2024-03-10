@@ -8,7 +8,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'SunsBot' //ur bot name
-global.ownernumber = '6285175463174' //ur owner number
+global.ownernumber = '628997496333' //ur owner number
 global.ownername = 'SunShine' //ur owner name
 global.websitex = "https://youtube.com"
 global.wagc = "https://chat.whatsapp.com/LGdeWLOZzqP91tARC9AN3b"
