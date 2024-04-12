@@ -6864,6 +6864,8 @@ if (typemenu === 'v1') {
       }, {
                         quoted: m
                     })
+	
+	XeonBotInc.sendMessage(m.chat, { audio: fs.readFileSync('./mp3/DribleBasket.mp3'), mimetype: 'audio/mp4', ptt: true, fileLength: 88738}, { quoted : m })
                     }
 }
 break
